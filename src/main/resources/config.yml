@@ -1,0 +1,8 @@
+gcloud:
+  project: palico-technical-test
+  scopes: https://www.googleapis.com/auth/cloud-platform
+  bucket: palico-technical-test
+  blob: palico-meetup/yupanqui/attendees.csv
+  mimetype: text/csv
+  file: /Users/munoz/Workspace/palico-meetup/attendees.csv
+
